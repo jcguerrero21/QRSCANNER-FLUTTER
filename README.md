@@ -1,6 +1,6 @@
 # qrreaderapp
 
-A new Flutter project.
+Reader of QR codes. (only works for http qr sites or geolocalization)
 
 ## Getting Started
 
